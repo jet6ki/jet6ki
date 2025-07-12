@@ -10,7 +10,5 @@ const softwareEngineer: Human = {
   obsessions: ["Code", "Cars", "Clean Design"],
 };
 ```
-
-![DevOps - Learning](https://img.shields.io/badge/devops-learning-informational)
-![Horsepower + Code](https://img.shields.io/badge/passion-cars%20%2B%20code-red)
+![Full Stack + DevOps](https://img.shields.io/badge/Full%20Stack%20+%20DevOps-in%20progress-orange?style=flat-square&logo=git&logoColor=white)
 
