@@ -1,5 +1,6 @@
 Front-end pixels to backend pipelines - building, scaling, and refining ideas into real-world impact, one product or business at a time.
 
+```js
 const thameemAshraf: Human = {
   name: "Mohammed Thameem Ashraf",
   title: "Software Engineering Enthusiast",
@@ -19,3 +20,4 @@ const thameemAshraf: Human = {
     portfolio: "coming.soon",
   },
 };
+```
